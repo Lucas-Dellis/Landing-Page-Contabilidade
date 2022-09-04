@@ -25,7 +25,7 @@
 }
 
 .caixa-superior{
-    background-image: url("/Dev.png");
+    background-image: url("./Dev.png");
     background-size: cover;
     height: 90vh;
 }
